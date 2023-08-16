@@ -1,0 +1,19 @@
+{
+    "name": "prasta/witch-saga-return-of-the-coder",
+    "description": "destroy the wicth",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prasta",
+            "email": "prasta72@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
