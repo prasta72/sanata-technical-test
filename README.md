@@ -10,7 +10,7 @@ Steps to install this project:
 
 2. Enter the project directory.
    ```bash
-   cd name-repo
+   cd sanata-technical-test
 
 3. Install dependencies using Composer.
    ```bash
