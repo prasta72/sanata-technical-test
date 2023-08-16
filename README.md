@@ -8,8 +8,10 @@ Steps to install this project:
    ```bash
    git clone https://github.com/prasta72/sanata-technical-test.git
 
-2.Enter the project directory.
-  cd name-repo
+2. Enter the project directory.
+   ```bash
+   cd name-repo
 
-3.Install dependencies using Composer.
-  composer install
+3. Install dependencies using Composer.
+   ```bash
+   composer install
