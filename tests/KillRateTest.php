@@ -81,7 +81,6 @@ class KillRateTest extends TestCase {
         ];
         $killRate = new KillRate($peoples);
         $average = $killRate->getAverage();
-        var_dump($average);
         $this->assertEquals(-1, $average);
     }
 }
