@@ -15,3 +15,7 @@ Steps to install this project:
 3. Install dependencies using Composer.
    ```bash
    composer install
+
+## Run Unit test
+```bash
+   vendor/bin/phpunit tests/KillRateTest.php
